@@ -1,0 +1,16 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+.env
+.env.local
+
+Assign_1 sml.pdf
+Bizthon SLIDES.pdf
+Blue White Bold Gradient Professional Tech Brand Guidelines Presentation.pdf
